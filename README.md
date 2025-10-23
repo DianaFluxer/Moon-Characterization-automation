@@ -22,7 +22,7 @@ It combines **motorized stage control**, **camera-based alignment**, **optical c
 3. **Reflectivity and Absolute Power Measurement (Stage 3)**  
    - Switches to a **single-mode laser** for precise reflectivity measurements.  
    - Records reflected intensity at defined coordinates for each **voltage** and **input power**, by rotating the **half-wave plate** in the setup.  
-   - Measures forward current in the **p–n junction** under illumination to evaluate reflectivity response.  
+   - Measures forward current in the **p–i-n junction** under illumination to evaluate reflectivity response.  
 
 4. **Electrical Characterization (Stage 4)**  
    - Shuts off all light sources.  
