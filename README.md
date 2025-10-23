@@ -38,5 +38,5 @@ It combines **motorized stage control**, **camera-based alignment**, **optical c
 ### **Automation Loop**
 After completing all measurements for one pixel, the system repeats the **alignment and measurement sequence** for the next pixel coordinate until the entire **16 × 16 pixel array** has been characterized.
   
-Repeats alignemnt and emusremnt for net pixel coordinates
+Repeats alignemnt and meausurement for net pixel coordinates
 
