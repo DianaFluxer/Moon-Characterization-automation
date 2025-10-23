@@ -3,7 +3,7 @@ Auto-Alignment and Measurement Workflow Code
 
 ## Overview
 
-This project provides an **automated sample alignment and measurement workflow** designed for integrated optical and electrical testing of the **Moon SLM structures** in a **16 × 16 pixel configuration**.  
+This project is emant to provide an **automated sample alignment and measurement workflow** designed for integrated optical and electrical testing of the **Moon SLM structures** in a **16 × 16 pixel configuration**.  
 It combines **motorized stage control**, **camera-based alignment**, **optical characterization**, and **electrical characterization** within one coordinated system.  
 
 ---
