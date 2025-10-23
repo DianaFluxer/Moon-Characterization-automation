@@ -40,7 +40,3 @@ After completing all measurements for one pixel, the system repeats the **alignm
   
 Repeats alignemnt and emusremnt for net pixel coordinates
 
-### **Purpose**
-- Ensure reproducible alignment across optical and electrical experiments.  
-- Enable fully automated, position-registered multi-modal measurements.  
-- Provide a single, structured data pipeline from calibration to analysis.  
